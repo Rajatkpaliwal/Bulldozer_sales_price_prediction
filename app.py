@@ -7,7 +7,7 @@ def load_model():
     model = joblib.load("ideal_model.pkl")
     return model
 
-trained_columns = joblib.load('trained_columns.pkl')
+trained_columns = joblib.load('trained_column.pkl')
 
 model = load_model()
 

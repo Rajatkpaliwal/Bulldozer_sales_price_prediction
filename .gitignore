@@ -4,4 +4,4 @@ Experiments/Test.csv
 Experiments/TrainAndValid.csv
 Experiments/train_temp.csv   
 ideal_model.pkl
-trained_columns.pkl
+trained_column.pkl
