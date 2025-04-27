@@ -1,0 +1,6 @@
+**/*
+!app.py
+!ideal_model.pkl
+!trained_column.pkl
+!requirements.txt
+!Dockerfile
